@@ -1,0 +1,13 @@
+name: mhk-skills-marketplace
+description: Marketplace for distributing skills for LLMs
+version: 1
+
+bundles:
+  informal-planning:
+    description: Skills for informal planning and reasoning
+    skills:
+      - confab
+  glue:
+    description: Skills for connecting and combining other skills
+    skills:
+      - handoff
